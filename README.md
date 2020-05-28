@@ -1,4 +1,4 @@
-# Weather app
+# Simple Weather app
 
 **Use of OpenWeather API **
 
